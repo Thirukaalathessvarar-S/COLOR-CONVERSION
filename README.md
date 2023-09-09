@@ -105,19 +105,29 @@ cv2.destroyAllWindows()
 ```
 ## Output:
 ### i) BGR and RGB to HSV and GRAY
+<div style="display: flex;">
 ![dip1_exp3](https://github.com/Thirukaalathessvarar-S/COLOR-CONVERSION/assets/121166390/f55db0aa-f30b-4445-a7a2-ad17710f461f) ![dip2_exp3](https://github.com/Thirukaalathessvarar-S/COLOR-CONVERSION/assets/121166390/6b288bfc-c8d6-4972-81b4-27bda80caa69) ![dip3_exp3](https://github.com/Thirukaalathessvarar-S/COLOR-CONVERSION/assets/121166390/e18699b1-5bd9-450f-a09d-48706ca453f7) ![dip4_exp3](https://github.com/Thirukaalathessvarar-S/COLOR-CONVERSION/assets/121166390/6feb2d28-2d59-4271-8c49-1197075e44d4) ![dip5_exp3](https://github.com/Thirukaalathessvarar-S/COLOR-CONVERSION/assets/121166390/4ea033ab-c2f6-407a-b9df-d17b0b77ee26)
+</div>
 
 ### ii) HSV to RGB and BGR
+<div style="display: flex;">
 ![dip_exp333](https://github.com/Thirukaalathessvarar-S/COLOR-CONVERSION/assets/121166390/5dc11ded-ea3c-482f-ad0c-e7a88a2ac44e) ![dip6_exp3](https://github.com/Thirukaalathessvarar-S/COLOR-CONVERSION/assets/121166390/51ad0eba-c5e7-49d4-9cb7-82135c463255) ![dip7_exp3](https://github.com/Thirukaalathessvarar-S/COLOR-CONVERSION/assets/121166390/e9c44fe7-b184-4539-b990-3310ee51015b)
+</div>
 
 ### iii) RGB and BGR to YCrCb
+<div style="display: flex;">
 ![dip_exp333](https://github.com/Thirukaalathessvarar-S/COLOR-CONVERSION/assets/121166390/6ffdf0c9-a9e9-4b80-9039-1a2730e6111e) ![dip8_exp3](https://github.com/Thirukaalathessvarar-S/COLOR-CONVERSION/assets/121166390/203875fe-0858-47af-8901-bfd5437692ef) ![dip9_exp3](https://github.com/Thirukaalathessvarar-S/COLOR-CONVERSION/assets/121166390/f49909a9-83f6-413f-a06e-c89cc61fcc4f)
+</div>
 
 ### iv) Split and merge RGB Image
+<div style="display: flex;">
 ![dip13_exp3](https://github.com/Thirukaalathessvarar-S/COLOR-CONVERSION/assets/121166390/765d9733-6bfe-4644-afa3-a2ae43aeb533) ![dip12_exp3](https://github.com/Thirukaalathessvarar-S/COLOR-CONVERSION/assets/121166390/4245a61c-56da-465d-818f-3d96f20e7d18) ![dip11_exp3](https://github.com/Thirukaalathessvarar-S/COLOR-CONVERSION/assets/121166390/21e01862-a844-4170-91b1-a3b1afdd3376) ![dip10_exp3](https://github.com/Thirukaalathessvarar-S/COLOR-CONVERSION/assets/121166390/a818f51d-594d-4490-b199-b31be38be622)
+</div>
 
 ### v) Split and merge HSV Image
+<div style="display: flex;">
 ![dip14_exp3](https://github.com/Thirukaalathessvarar-S/COLOR-CONVERSION/assets/121166390/ffbfe722-fbe4-4901-957f-cef8ffd62d6f) ![dip15_exp3](https://github.com/Thirukaalathessvarar-S/COLOR-CONVERSION/assets/121166390/f387133e-51a4-40f9-9691-29a7926f83bb) ![dip16_exp3](https://github.com/Thirukaalathessvarar-S/COLOR-CONVERSION/assets/121166390/52ed7672-ea76-4015-af68-6d470be78bc8) ![dip17_exp3](https://github.com/Thirukaalathessvarar-S/COLOR-CONVERSION/assets/121166390/d8f2d440-6e16-4a2b-91cb-37a857fb0597)
+</div>
 
 ## Result:
 Thus the color conversion was performed between RGB, HSV and YCbCr color models.
