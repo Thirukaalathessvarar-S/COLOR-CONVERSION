@@ -105,8 +105,6 @@ cv2.destroyAllWindows()
 ```
 ## Output:
 ### i) BGR and RGB to HSV and GRAY
-<br>
-
 ![dip1_exp3](https://github.com/Thirukaalathessvarar-S/COLOR-CONVERSION/assets/121166390/f55db0aa-f30b-4445-a7a2-ad17710f461f)
 
 
@@ -119,10 +117,7 @@ cv2.destroyAllWindows()
 
 ![dip5_exp3](https://github.com/Thirukaalathessvarar-S/COLOR-CONVERSION/assets/121166390/4ea033ab-c2f6-407a-b9df-d17b0b77ee26)
 
-<br>
-
 ### ii) HSV to RGB and BGR
-<br>
 
 ![dip_exp333](https://github.com/Thirukaalathessvarar-S/COLOR-CONVERSION/assets/121166390/5dc11ded-ea3c-482f-ad0c-e7a88a2ac44e)
 
@@ -130,10 +125,7 @@ cv2.destroyAllWindows()
 
 ![dip7_exp3](https://github.com/Thirukaalathessvarar-S/COLOR-CONVERSION/assets/121166390/e9c44fe7-b184-4539-b990-3310ee51015b)
 
-<br>
-
 ### iii) RGB and BGR to YCrCb
-<br>
 
 ![dip_exp333](https://github.com/Thirukaalathessvarar-S/COLOR-CONVERSION/assets/121166390/6ffdf0c9-a9e9-4b80-9039-1a2730e6111e)
 
@@ -141,10 +133,7 @@ cv2.destroyAllWindows()
 
 ![dip9_exp3](https://github.com/Thirukaalathessvarar-S/COLOR-CONVERSION/assets/121166390/f49909a9-83f6-413f-a06e-c89cc61fcc4f)
 
-<br>
-
 ### iv) Split and merge RGB Image
-<br>
 
 ![dip13_exp3](https://github.com/Thirukaalathessvarar-S/COLOR-CONVERSION/assets/121166390/765d9733-6bfe-4644-afa3-a2ae43aeb533)
 
@@ -154,10 +143,7 @@ cv2.destroyAllWindows()
 
 ![dip10_exp3](https://github.com/Thirukaalathessvarar-S/COLOR-CONVERSION/assets/121166390/a818f51d-594d-4490-b199-b31be38be622)
 
-<br>
-
 ### v) Split and merge HSV Image
-<br>
 
 ![dip14_exp3](https://github.com/Thirukaalathessvarar-S/COLOR-CONVERSION/assets/121166390/ffbfe722-fbe4-4901-957f-cef8ffd62d6f)
 
@@ -166,9 +152,6 @@ cv2.destroyAllWindows()
 ![dip16_exp3](https://github.com/Thirukaalathessvarar-S/COLOR-CONVERSION/assets/121166390/52ed7672-ea76-4015-af68-6d470be78bc8)
 
 ![dip17_exp3](https://github.com/Thirukaalathessvarar-S/COLOR-CONVERSION/assets/121166390/d8f2d440-6e16-4a2b-91cb-37a857fb0597)
-
-<br>
-
 
 ## Result:
 Thus the color conversion was performed between RGB, HSV and YCbCr color models.
